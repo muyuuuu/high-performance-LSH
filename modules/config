@@ -1,0 +1,8 @@
+1
+11
+10
+../data/base
+../data/query
+../data/out
+0 ../data/hash_table ../data/hash_function ../data/amplify_function
+0 ../data/hash_table ../data/hash_function ../data/amplify_function

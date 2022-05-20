@@ -1,0 +1,597 @@
+Base file dimension : 99996 X 128
+Query file dimension : 100 X 128
+Hash tables' dimension: 1 X 2048.00
+Hash function's dimension: 11 X 128
+amplify function's dimension: 1 X 11
+After 0.30 seconds, 500 items has been hashed ! 
+After 0.59 seconds, 1000 items has been hashed ! 
+After 0.88 seconds, 1500 items has been hashed ! 
+After 1.17 seconds, 2000 items has been hashed ! 
+After 1.50 seconds, 2500 items has been hashed ! 
+After 1.83 seconds, 3000 items has been hashed ! 
+After 2.15 seconds, 3500 items has been hashed ! 
+After 2.49 seconds, 4000 items has been hashed ! 
+After 2.78 seconds, 4500 items has been hashed ! 
+After 3.07 seconds, 5000 items has been hashed ! 
+After 3.36 seconds, 5500 items has been hashed ! 
+After 3.64 seconds, 6000 items has been hashed ! 
+After 3.94 seconds, 6500 items has been hashed ! 
+After 4.23 seconds, 7000 items has been hashed ! 
+After 4.52 seconds, 7500 items has been hashed ! 
+After 4.81 seconds, 8000 items has been hashed ! 
+After 5.10 seconds, 8500 items has been hashed ! 
+After 5.38 seconds, 9000 items has been hashed ! 
+After 5.67 seconds, 9500 items has been hashed ! 
+After 5.97 seconds, 10000 items has been hashed ! 
+After 6.29 seconds, 10500 items has been hashed ! 
+After 6.59 seconds, 11000 items has been hashed ! 
+After 6.91 seconds, 11500 items has been hashed ! 
+After 7.22 seconds, 12000 items has been hashed ! 
+After 7.53 seconds, 12500 items has been hashed ! 
+After 7.82 seconds, 13000 items has been hashed ! 
+After 8.11 seconds, 13500 items has been hashed ! 
+After 8.40 seconds, 14000 items has been hashed ! 
+After 8.68 seconds, 14500 items has been hashed ! 
+After 8.97 seconds, 15000 items has been hashed ! 
+After 9.26 seconds, 15500 items has been hashed ! 
+After 9.55 seconds, 16000 items has been hashed ! 
+After 9.84 seconds, 16500 items has been hashed ! 
+After 10.13 seconds, 17000 items has been hashed ! 
+After 10.42 seconds, 17500 items has been hashed ! 
+After 10.71 seconds, 18000 items has been hashed ! 
+After 11.00 seconds, 18500 items has been hashed ! 
+After 11.28 seconds, 19000 items has been hashed ! 
+After 11.57 seconds, 19500 items has been hashed ! 
+After 11.86 seconds, 20000 items has been hashed ! 
+After 12.15 seconds, 20500 items has been hashed ! 
+After 12.43 seconds, 21000 items has been hashed ! 
+After 12.72 seconds, 21500 items has been hashed ! 
+After 13.02 seconds, 22000 items has been hashed ! 
+After 13.32 seconds, 22500 items has been hashed ! 
+After 13.60 seconds, 23000 items has been hashed ! 
+After 13.89 seconds, 23500 items has been hashed ! 
+After 14.18 seconds, 24000 items has been hashed ! 
+After 14.47 seconds, 24500 items has been hashed ! 
+After 14.76 seconds, 25000 items has been hashed ! 
+After 15.05 seconds, 25500 items has been hashed ! 
+After 15.34 seconds, 26000 items has been hashed ! 
+After 15.63 seconds, 26500 items has been hashed ! 
+After 15.91 seconds, 27000 items has been hashed ! 
+After 16.20 seconds, 27500 items has been hashed ! 
+After 16.49 seconds, 28000 items has been hashed ! 
+After 16.78 seconds, 28500 items has been hashed ! 
+After 17.06 seconds, 29000 items has been hashed ! 
+After 17.35 seconds, 29500 items has been hashed ! 
+After 17.65 seconds, 30000 items has been hashed ! 
+After 17.93 seconds, 30500 items has been hashed ! 
+After 18.22 seconds, 31000 items has been hashed ! 
+After 18.52 seconds, 31500 items has been hashed ! 
+After 18.80 seconds, 32000 items has been hashed ! 
+After 19.09 seconds, 32500 items has been hashed ! 
+After 19.38 seconds, 33000 items has been hashed ! 
+After 19.68 seconds, 33500 items has been hashed ! 
+After 19.97 seconds, 34000 items has been hashed ! 
+After 20.25 seconds, 34500 items has been hashed ! 
+After 20.54 seconds, 35000 items has been hashed ! 
+After 20.83 seconds, 35500 items has been hashed ! 
+After 21.11 seconds, 36000 items has been hashed ! 
+After 21.41 seconds, 36500 items has been hashed ! 
+After 21.70 seconds, 37000 items has been hashed ! 
+After 21.99 seconds, 37500 items has been hashed ! 
+After 22.27 seconds, 38000 items has been hashed ! 
+After 22.56 seconds, 38500 items has been hashed ! 
+After 22.85 seconds, 39000 items has been hashed ! 
+After 23.13 seconds, 39500 items has been hashed ! 
+After 23.42 seconds, 40000 items has been hashed ! 
+After 23.71 seconds, 40500 items has been hashed ! 
+After 24.00 seconds, 41000 items has been hashed ! 
+After 24.29 seconds, 41500 items has been hashed ! 
+After 24.58 seconds, 42000 items has been hashed ! 
+After 24.86 seconds, 42500 items has been hashed ! 
+After 25.15 seconds, 43000 items has been hashed ! 
+After 25.44 seconds, 43500 items has been hashed ! 
+After 25.73 seconds, 44000 items has been hashed ! 
+After 26.02 seconds, 44500 items has been hashed ! 
+After 26.30 seconds, 45000 items has been hashed ! 
+After 26.59 seconds, 45500 items has been hashed ! 
+After 26.88 seconds, 46000 items has been hashed ! 
+After 27.17 seconds, 46500 items has been hashed ! 
+After 27.46 seconds, 47000 items has been hashed ! 
+After 27.74 seconds, 47500 items has been hashed ! 
+After 28.03 seconds, 48000 items has been hashed ! 
+After 28.32 seconds, 48500 items has been hashed ! 
+After 28.61 seconds, 49000 items has been hashed ! 
+After 28.90 seconds, 49500 items has been hashed ! 
+After 29.19 seconds, 50000 items has been hashed ! 
+After 29.48 seconds, 50500 items has been hashed ! 
+After 29.76 seconds, 51000 items has been hashed ! 
+After 30.05 seconds, 51500 items has been hashed ! 
+After 30.34 seconds, 52000 items has been hashed ! 
+After 30.63 seconds, 52500 items has been hashed ! 
+After 30.92 seconds, 53000 items has been hashed ! 
+After 31.21 seconds, 53500 items has been hashed ! 
+After 31.49 seconds, 54000 items has been hashed ! 
+After 31.78 seconds, 54500 items has been hashed ! 
+After 32.07 seconds, 55000 items has been hashed ! 
+After 32.36 seconds, 55500 items has been hashed ! 
+After 32.65 seconds, 56000 items has been hashed ! 
+After 32.94 seconds, 56500 items has been hashed ! 
+After 33.22 seconds, 57000 items has been hashed ! 
+After 33.51 seconds, 57500 items has been hashed ! 
+After 33.80 seconds, 58000 items has been hashed ! 
+After 34.10 seconds, 58500 items has been hashed ! 
+After 34.38 seconds, 59000 items has been hashed ! 
+After 34.67 seconds, 59500 items has been hashed ! 
+After 34.96 seconds, 60000 items has been hashed ! 
+After 35.25 seconds, 60500 items has been hashed ! 
+After 35.53 seconds, 61000 items has been hashed ! 
+After 35.82 seconds, 61500 items has been hashed ! 
+After 36.11 seconds, 62000 items has been hashed ! 
+After 36.40 seconds, 62500 items has been hashed ! 
+After 36.68 seconds, 63000 items has been hashed ! 
+After 36.97 seconds, 63500 items has been hashed ! 
+After 37.26 seconds, 64000 items has been hashed ! 
+After 37.55 seconds, 64500 items has been hashed ! 
+After 37.83 seconds, 65000 items has been hashed ! 
+After 38.13 seconds, 65500 items has been hashed ! 
+After 38.42 seconds, 66000 items has been hashed ! 
+After 38.71 seconds, 66500 items has been hashed ! 
+After 38.99 seconds, 67000 items has been hashed ! 
+After 39.29 seconds, 67500 items has been hashed ! 
+After 39.58 seconds, 68000 items has been hashed ! 
+After 39.88 seconds, 68500 items has been hashed ! 
+After 40.16 seconds, 69000 items has been hashed ! 
+After 40.45 seconds, 69500 items has been hashed ! 
+After 40.74 seconds, 70000 items has been hashed ! 
+After 41.03 seconds, 70500 items has been hashed ! 
+After 41.31 seconds, 71000 items has been hashed ! 
+After 41.60 seconds, 71500 items has been hashed ! 
+After 41.89 seconds, 72000 items has been hashed ! 
+After 42.17 seconds, 72500 items has been hashed ! 
+After 42.46 seconds, 73000 items has been hashed ! 
+After 42.75 seconds, 73500 items has been hashed ! 
+After 43.04 seconds, 74000 items has been hashed ! 
+After 43.32 seconds, 74500 items has been hashed ! 
+After 43.61 seconds, 75000 items has been hashed ! 
+After 43.90 seconds, 75500 items has been hashed ! 
+After 44.18 seconds, 76000 items has been hashed ! 
+After 44.48 seconds, 76500 items has been hashed ! 
+After 44.76 seconds, 77000 items has been hashed ! 
+After 45.05 seconds, 77500 items has been hashed ! 
+After 45.34 seconds, 78000 items has been hashed ! 
+After 45.63 seconds, 78500 items has been hashed ! 
+After 45.92 seconds, 79000 items has been hashed ! 
+After 46.20 seconds, 79500 items has been hashed ! 
+After 46.49 seconds, 80000 items has been hashed ! 
+After 46.78 seconds, 80500 items has been hashed ! 
+After 47.07 seconds, 81000 items has been hashed ! 
+After 47.36 seconds, 81500 items has been hashed ! 
+After 47.65 seconds, 82000 items has been hashed ! 
+After 47.94 seconds, 82500 items has been hashed ! 
+After 48.24 seconds, 83000 items has been hashed ! 
+After 48.54 seconds, 83500 items has been hashed ! 
+After 48.83 seconds, 84000 items has been hashed ! 
+After 49.13 seconds, 84500 items has been hashed ! 
+After 49.42 seconds, 85000 items has been hashed ! 
+After 49.70 seconds, 85500 items has been hashed ! 
+After 49.99 seconds, 86000 items has been hashed ! 
+After 50.29 seconds, 86500 items has been hashed ! 
+After 50.57 seconds, 87000 items has been hashed ! 
+After 50.86 seconds, 87500 items has been hashed ! 
+After 51.15 seconds, 88000 items has been hashed ! 
+After 51.46 seconds, 88500 items has been hashed ! 
+After 51.75 seconds, 89000 items has been hashed ! 
+After 52.03 seconds, 89500 items has been hashed ! 
+After 52.32 seconds, 90000 items has been hashed ! 
+After 52.61 seconds, 90500 items has been hashed ! 
+After 52.89 seconds, 91000 items has been hashed ! 
+After 53.18 seconds, 91500 items has been hashed ! 
+After 53.47 seconds, 92000 items has been hashed ! 
+After 53.76 seconds, 92500 items has been hashed ! 
+After 54.04 seconds, 93000 items has been hashed ! 
+After 54.33 seconds, 93500 items has been hashed ! 
+After 54.62 seconds, 94000 items has been hashed ! 
+After 54.90 seconds, 94500 items has been hashed ! 
+After 55.19 seconds, 95000 items has been hashed ! 
+After 55.48 seconds, 95500 items has been hashed ! 
+After 55.77 seconds, 96000 items has been hashed ! 
+After 56.05 seconds, 96500 items has been hashed ! 
+After 56.34 seconds, 97000 items has been hashed ! 
+After 56.63 seconds, 97500 items has been hashed ! 
+After 56.91 seconds, 98000 items has been hashed ! 
+After 57.20 seconds, 98500 items has been hashed ! 
+After 57.49 seconds, 99000 items has been hashed ! 
+After 57.77 seconds, 99500 items has been hashed ! 
+All Query Item has been submitted !
+====================================================
+Query: 0, NN LSH Items:
+ ==>> 0.75	647395
+ ==>> 0.62	974976
+ ==>> 0.58	608463
+ ==>> 0.55	614459
+ ==>> 0.36	909992
+ ==>> 0.33	331468
+ ==>> 0.33	786546
+ ==>> 0.33	990242
+ ==>> 0.32	513422
+ ==>> 0.30	215640
+Item 0 has been queried
+====================================================
+Query: 1, NN LSH Items:
+ ==>> 0.91	439789
+ ==>> 0.87	703616
+ ==>> 0.51	618719
+ ==>> 0.50	513264
+ ==>> 0.46	830190
+ ==>> 0.44	887492
+ ==>> 0.44	276988
+ ==>> 0.42	275717
+ ==>> 0.41	983321
+ ==>> 0.40	612938
+Item 1 has been queried
+====================================================
+Query: 2, NN LSH Items:
+ ==>> 0.47	997060
+ ==>> 0.36	713928
+ ==>> 0.30	337306
+ ==>> 0.27	54810
+ ==>> 0.26	217106
+ ==>> 0.24	904573
+ ==>> 0.21	228905
+ ==>> 0.19	419533
+ ==>> 0.17	94835
+ ==>> 0.17	565050
+Item 2 has been queried
+====================================================
+Query: 3, NN LSH Items:
+ ==>> 0.34	131508
+ ==>> 0.29	449885
+ ==>> 0.27	855291
+ ==>> 0.27	365540
+ ==>> 0.26	832683
+ ==>> 0.25	105527
+ ==>> 0.25	481689
+ ==>> 0.20	808195
+ ==>> 0.20	204221
+ ==>> 0.19	487549
+Item 3 has been queried
+====================================================
+Query: 4, NN LSH Items:
+ ==>> 0.28	6388
+ ==>> 0.22	18334
+ ==>> 0.21	778297
+ ==>> 0.21	183261
+ ==>> 0.20	81694
+ ==>> 0.19	976556
+ ==>> 0.19	578108
+ ==>> 0.18	46396
+ ==>> 0.18	219778
+ ==>> 0.18	207823
+Item 4 has been queried
+====================================================
+Query: 5, NN LSH Items:
+ ==>> 0.50	887399
+ ==>> 0.45	112207
+ ==>> 0.44	965463
+ ==>> 0.36	200727
+ ==>> 0.36	522569
+ ==>> 0.35	630638
+ ==>> 0.32	764524
+ ==>> 0.31	389115
+ ==>> 0.31	151730
+ ==>> 0.29	811837
+Item 5 has been queried
+====================================================
+Query: 6, NN LSH Items:
+ ==>> 0.52	13478
+ ==>> 0.50	495573
+ ==>> 0.42	365787
+ ==>> 0.41	795362
+ ==>> 0.41	55063
+ ==>> 0.40	140293
+ ==>> 0.39	966863
+ ==>> 0.39	104922
+ ==>> 0.38	446521
+ ==>> 0.38	520083
+Item 6 has been queried
+====================================================
+Query: 7, NN LSH Items:
+ ==>> 0.54	130239
+ ==>> 0.26	717549
+ ==>> 0.25	597410
+ ==>> 0.22	710695
+ ==>> 0.20	286480
+ ==>> 0.18	520909
+ ==>> 0.17	348268
+ ==>> 0.16	772547
+ ==>> 0.16	933064
+ ==>> 0.15	691753
+Item 7 has been queried
+====================================================
+Query: 8, NN LSH Items:
+ ==>> 0.59	254250
+ ==>> 0.47	841436
+ ==>> 0.47	597710
+ ==>> 0.43	773255
+ ==>> 0.38	6460
+ ==>> 0.37	322801
+ ==>> 0.30	638600
+ ==>> 0.29	163875
+ ==>> 0.20	556499
+ ==>> 0.20	93927
+Item 8 has been queried
+====================================================
+Query: 9, NN LSH Items:
+ ==>> 0.34	200456
+ ==>> 0.26	854844
+ ==>> 0.17	835515
+ ==>> 0.16	384473
+ ==>> 0.15	265121
+ ==>> 0.13	826295
+ ==>> 0.10	786904
+ ==>> 0.10	451400
+ ==>> 0.05	608564
+ ==>> 0.05	858213
+Item 9 has been queried
+====================================================
+Query: 10, NN LSH Items:
+ ==>> 0.93	77257
+ ==>> 0.64	125799
+ ==>> 0.38	909340
+ ==>> 0.36	231491
+ ==>> 0.29	399656
+ ==>> 0.29	520558
+ ==>> 0.25	673120
+ ==>> 0.21	88407
+ ==>> 0.19	715471
+ ==>> 0.19	712235
+Item 10 has been queried
+====================================================
+Query: 11, NN LSH Items:
+ ==>> 0.66	546345
+ ==>> 0.49	543113
+ ==>> 0.48	351942
+ ==>> 0.45	434890
+ ==>> 0.44	620017
+ ==>> 0.36	748674
+ ==>> 0.35	568456
+ ==>> 0.34	390807
+ ==>> 0.31	739176
+ ==>> 0.30	88617
+Item 11 has been queried
+====================================================
+Query: 12, NN LSH Items:
+ ==>> 0.34	377768
+ ==>> 0.22	794491
+ ==>> 0.20	826648
+ ==>> 0.16	928554
+ ==>> 0.13	971227
+ ==>> 0.12	489496
+ ==>> 0.12	989377
+ ==>> 0.11	797755
+ ==>> 0.09	893192
+ ==>> 0.07	413127
+Item 12 has been queried
+====================================================
+Query: 13, NN LSH Items:
+ ==>> 0.44	578591
+ ==>> 0.33	635189
+ ==>> 0.24	427863
+ ==>> 0.24	120186
+ ==>> 0.23	920321
+ ==>> 0.20	522923
+ ==>> 0.19	531682
+ ==>> 0.19	769203
+ ==>> 0.18	357561
+ ==>> 0.17	165441
+Item 13 has been queried
+====================================================
+Query: 14, NN LSH Items:
+ ==>> 0.41	915980
+ ==>> 0.33	421024
+ ==>> 0.30	398242
+ ==>> 0.27	425515
+ ==>> 0.27	764678
+ ==>> 0.24	220015
+ ==>> 0.21	492580
+ ==>> 0.20	703486
+ ==>> 0.19	770326
+ ==>> 0.19	880684
+Item 14 has been queried
+====================================================
+Query: 15, NN LSH Items:
+ ==>> 0.47	169733
+ ==>> 0.46	533645
+ ==>> 0.41	396975
+ ==>> 0.40	569875
+ ==>> 0.33	448860
+ ==>> 0.33	104359
+ ==>> 0.32	511063
+ ==>> 0.32	759549
+ ==>> 0.31	537474
+ ==>> 0.30	356122
+Item 15 has been queried
+====================================================
+Query: 16, NN LSH Items:
+ ==>> 0.78	297706
+ ==>> 0.54	750632
+ ==>> 0.37	945149
+ ==>> 0.35	557779
+ ==>> 0.34	261223
+ ==>> 0.28	908104
+ ==>> 0.27	696630
+ ==>> 0.25	810209
+ ==>> 0.25	191891
+ ==>> 0.24	968789
+Item 16 has been queried
+====================================================
+Query: 17, NN LSH Items:
+ ==>> 0.38	87716
+ ==>> 0.29	370118
+ ==>> 0.26	898061
+ ==>> 0.25	164909
+ ==>> 0.23	648980
+ ==>> 0.23	334559
+ ==>> 0.18	832004
+ ==>> 0.17	400707
+ ==>> 0.16	578230
+ ==>> 0.16	416144
+Item 17 has been queried
+====================================================
+Query: 18, NN LSH Items:
+ ==>> 0.47	826071
+ ==>> 0.44	101335
+ ==>> 0.37	814862
+ ==>> 0.32	86800
+ ==>> 0.24	75770
+ ==>> 0.21	257093
+ ==>> 0.20	718807
+ ==>> 0.20	379358
+ ==>> 0.20	937787
+ ==>> 0.19	13070
+Item 18 has been queried
+====================================================
+Query: 19, NN LSH Items:
+ ==>> 0.69	71723
+ ==>> 0.63	518014
+ ==>> 0.61	174513
+ ==>> 0.46	462315
+ ==>> 0.45	659987
+ ==>> 0.33	815551
+ ==>> 0.31	98725
+ ==>> 0.30	247245
+ ==>> 0.29	319932
+ ==>> 0.29	599266
+Item 19 has been queried
+====================================================
+Query: 20, NN LSH Items:
+ ==>> 0.37	669850
+ ==>> 0.34	128049
+ ==>> 0.31	135646
+ ==>> 0.26	786944
+ ==>> 0.26	16943
+ ==>> 0.23	245722
+ ==>> 0.19	478182
+ ==>> 0.18	642964
+ ==>> 0.15	632698
+ ==>> 0.13	802680
+Item 20 has been queried
+====================================================
+Query: 21, NN LSH Items:
+ ==>> 0.29	930319
+ ==>> 0.26	38397
+ ==>> 0.25	616361
+ ==>> 0.23	285756
+ ==>> 0.23	552689
+ ==>> 0.21	853190
+ ==>> 0.20	18872
+ ==>> 0.19	384328
+ ==>> 0.19	446589
+ ==>> 0.19	495850
+Item 21 has been queried
+====================================================
+Query: 22, NN LSH Items:
+ ==>> 0.79	371108
+ ==>> 0.51	382573
+ ==>> 0.47	948868
+ ==>> 0.44	581426
+ ==>> 0.43	340703
+ ==>> 0.37	958957
+ ==>> 0.36	725025
+ ==>> 0.36	976401
+ ==>> 0.36	935009
+ ==>> 0.34	609784
+Item 22 has been queried
+====================================================
+Query: 23, NN LSH Items:
+ ==>> 0.45	691599
+ ==>> 0.27	401239
+ ==>> 0.25	721350
+ ==>> 0.23	808575
+ ==>> 0.22	338937
+ ==>> 0.21	802565
+ ==>> 0.21	687194
+ ==>> 0.21	101856
+ ==>> 0.20	332006
+ ==>> 0.20	210198
+Item 23 has been queried
+====================================================
+Query: 24, NN LSH Items:
+ ==>> 0.57	665693
+ ==>> 0.37	253446
+ ==>> 0.31	519879
+ ==>> 0.25	284327
+ ==>> 0.23	109152
+ ==>> 0.21	333096
+ ==>> 0.18	779059
+ ==>> 0.17	945666
+ ==>> 0.17	87457
+ ==>> 0.16	457656
+Item 24 has been queried
+====================================================
+Query: 25, NN LSH Items:
+ ==>> 0.34	418169
+ ==>> 0.17	508560
+ ==>> 0.17	266126
+ ==>> 0.11	363875
+ ==>> 0.10	226824
+ ==>> 0.08	515519
+ ==>> 0.04	611739
+ ==>> 0.04	336404
+ ==>> 0.02	609991
+ ==>> 0.00	787811
+Item 25 has been queried
+====================================================
+Query: 26, NN LSH Items:
+ ==>> 0.42	702352
+ ==>> 0.34	407762
+ ==>> 0.33	945239
+ ==>> 0.32	473791
+ ==>> 0.32	563836
+ ==>> 0.31	790568
+ ==>> 0.30	782838
+ ==>> 0.29	300036
+ ==>> 0.29	498713
+ ==>> 0.26	402179
+Item 26 has been queried
+====================================================
+Query: 27, NN LSH Items:
+ ==>> 0.92	628456
+ ==>> 0.88	847918
+ ==>> 0.32	458074
+ ==>> 0.27	485689
+ ==>> 0.27	61927
+ ==>> 0.23	810968
+ ==>> 0.22	297496
+ ==>> 0.22	621342
+ ==>> 0.21	510388
+ ==>> 0.20	992283
+Item 27 has been queried
+====================================================
+Query: 28, NN LSH Items:
+ ==>> 0.32	401451
+ ==>> 0.28	904979
+ ==>> 0.27	438017
+ ==>> 0.26	337779
+ ==>> 0.25	336519
+ ==>> 0.24	216273
+ ==>> 0.23	224136
+ ==>> 0.22	71500
+ ==>> 0.22	32267
+ ==>> 0.22	200097
+Item 28 has been queried
+====================================================
+Query: 29, NN LSH Items:
+ ==>> 0.33	928005
+ ==>> 0.25	158037
+ ==>> 0.23	413315
+ ==>> 0.22	663585
+ ==>> 0.20	624580
+ ==>> 0.20	219115
+ ==>> 0.19	61823
+ ==>> 0.17	829129
+ ==>> 0.17	902403
+ ==>> 0.17	425419
+Item 29 has been queried
+====================================================
+Average Time: 3.11 seconds. 
